@@ -1,4 +1,4 @@
-[
+export const questions = [
   {
     "id": 1,
     "question": "What is React?",
